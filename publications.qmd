@@ -1,6 +1,36 @@
 ---
-title: ""
+title: "Publications"
 toc: false
 ---
 
-### See my [google scholar](https://scholar.google.com/citations?user=xB64MDUAAAAJ) for a full list of publications.
+1. **Ru, J.**, Li, P., Wang, J., Zhou, W., Li, B., Huang, C., Li, P., Guo, Z., Tao, W., Yang, Y., et al. (2014). TCMSP: a database of systems pharmacology for drug discovery from herbal medicines. J Cheminform 6, 13. 10.1186/1758-2946-6-13.
+
+2. Li, P., Fu, Y., **Ru, J.**, Huang, C., Du, J., Zheng, C., Chen, X., Li, P., Lu, A., Yang, L., et al. (2014). Insights from systems pharmacology into cardiovascular drug discovery and therapy. BMC Systems Biology 8, 141. 10.1186/s12918-014-0141-z.
+
+3. Li, P., Huang, C., Fu, Y., Wang, J., Wu, Z., **Ru, J.**, Zheng, C., Guo, Z., Chen, X., Zhou, W., et al. (2015). Large-scale exploration and analysis of drug combinations. Bioinformatics 31, 2007–2016. 10.1093/bioinformatics/btv080.
+
+4. Zheng, C., Guo, Z., Huang, C., Wu, Z., Li, Y., Chen, X., Fu, Y., **Ru, J.**, Ali Shar, P., Wang, Y., et al. (2015). Large-scale Direct Targeting for Drug Repositioning and Discovery. Sci Rep 5, 11970. 10.1038/srep11970.
+
+5. Chen, Y., Jiang, Y., Huang, H., Mou, L., **Ru, J.**, Zhao, J., and Xiao, S. (2018). Long-term and high-concentration heavy-metal contamination strongly influences the microbiome and functional genes in Yellow River sediments. Science of The Total Environment 637-638, 1400–1412. 10.1016/j.scitotenv.2018.05.109.
+
+6. Jiang, Y., Huang, H., Ma, T., **Ru, J.**, Blank, S., Kurmayer, R., and Deng, L. (2019). Temperature Response of Planktonic Microbiota in Remote Alpine Lakes. Front. Microbiol. 10. 10.3389/fmicb.2019.01714.
+
+7. Mirzaei, M.K., Khan, M.A.A., Ghosh, P., Taranu, Z.E., Taguer, M., **Ru, J.**, Chowdhury, R., Kabir, M.M., Deng, L., Mondal, D., et al. (2020). Bacteriophages Isolated from Stunted Children Can Regulate Gut Bacterial Communities in an Age-Specific Manner. Cell Host & Microbe 27, 199-212.e5. 10.1016/j.chom.2020.01.004.
+
+8. Mirzaei, M.K., Xue, J., Costa, R., **Ru, J.**, Schulz, S., Taranu, Z.E., and Deng, L. (2020). Challenges of Studying the Human Virome – Relevant Emerging Technologies. Trends in Microbiology 0. 10.1016/j.tim.2020.05.021.
+
+9. Ma, T., **Ru, J.**, Xue, J., Schulz, S., Mirzaei, M.K., Janssen, K.-P., Quante, M., and Deng, L. (2021). Differences in Gut Virome Related to Barrett Esophagus and Esophageal Adenocarcinoma. Microorganisms 9, 1701. 10.3390/microorganisms9081701.
+
+10. Peng, X., **Ru, J.**, Mirzaei, M.K., and Deng, L. (2022). Replidec - Use naive Bayes classifier to identify virus lifecycle from metagenomics data. bioRxiv, 2022.07.18.500415. 10.1101/2022.07.18.500415.
+
+11. Entfellner, E., Li, R., Jiang, Y., **Ru, J.**, Blom, J., Deng, L., and Kurmayer, R. (2022). Toxic/Bioactive Peptide Synthesis Genes Rearranged by Insertion Sequence Elements Among the Bloom-Forming Cyanobacteria Planktothrix. Frontiers in Microbiology 13. 10.3389/fmicb.2022.901762.
+
+12. Luo, S., Xue, J., **Ru, J.**, Mirzaei, M.K., Ralser, A., Mejías-Luque, R., Gerhard, M., and Deng, L. (2022). Altered virome structrue and function characterization in Helicobacter pylori -driven colorectal carcinogenesis and H. pylori eradication. bioRxiv.
+
+13. Sun, J., **Ru, J.**, Ramos-Mucci, L., Qi, F., Chen, Z., Chen, S., Cribbs, A.P., Deng, L., and Wang, X. (2023). DeepsmirUD: Prediction of Regulatory Effects on microRNA Expression Mediated by Small Molecules Using Deep Learning. International Journal of Molecular Sciences 24, 1878. 10.3390/ijms24031878.
+
+::: {.callout-tip}
+See my [google scholar](https://scholar.google.com/citations?user=xB64MDUAAAAJ) for a full list of publications.
+:::
+
+
