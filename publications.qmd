@@ -3,6 +3,10 @@ title: "Publications"
 toc: false
 ---
 
+::: {.callout-tip}
+See my [google scholar](https://scholar.google.com/citations?user=xB64MDUAAAAJ) for a full list of publications.
+:::
+
 1. **Ru, J.**, Li, P., Wang, J., Zhou, W., Li, B., Huang, C., Li, P., Guo, Z., Tao, W., Yang, Y., et al. (2014). TCMSP: a database of systems pharmacology for drug discovery from herbal medicines. J Cheminform 6, 13. 10.1186/1758-2946-6-13.
 
 2. Li, P., Fu, Y., **Ru, J.**, Huang, C., Du, J., Zheng, C., Chen, X., Li, P., Lu, A., Yang, L., et al. (2014). Insights from systems pharmacology into cardiovascular drug discovery and therapy. BMC Systems Biology 8, 141. 10.1186/s12918-014-0141-z.
@@ -28,9 +32,5 @@ toc: false
 12. Luo, S., Xue, J., **Ru, J.**, Mirzaei, M.K., Ralser, A., Mejías-Luque, R., Gerhard, M., and Deng, L. (2022). Altered virome structrue and function characterization in Helicobacter pylori -driven colorectal carcinogenesis and H. pylori eradication. bioRxiv.
 
 13. Sun, J., **Ru, J.**, Ramos-Mucci, L., Qi, F., Chen, Z., Chen, S., Cribbs, A.P., Deng, L., and Wang, X. (2023). DeepsmirUD: Prediction of Regulatory Effects on microRNA Expression Mediated by Small Molecules Using Deep Learning. International Journal of Molecular Sciences 24, 1878. 10.3390/ijms24031878.
-
-::: {.callout-tip}
-See my [google scholar](https://scholar.google.com/citations?user=xB64MDUAAAAJ) for a full list of publications.
-:::
 
 
