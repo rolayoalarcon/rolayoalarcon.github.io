@@ -18,7 +18,7 @@ about:
 ---
 
 
-Hi! My name is Jinlong Ru. I am a PhD researcher at Technische Universität München (TUM) and Helmholtz Zentrum München (HMGU). My research interests include discovering novel drugs from natural products, phage therapy for combating microbial infections, and analyzing metagenomics data. My current work involves studying phage-host interactions using a multi-omics approach, as well as developing tools for viromics data analysis. In his free time, Jinlong enjoys cooking and reading.
+Hi! My name is Jinlong Ru. I am a PhD researcher at Technische Universität München (TUM) and Helmholtz Zentrum München (HMGU). My research interests include discovering novel drugs from natural products, phage therapy for combating microbial infections, and analyzing metagenomics data. My current work involves studying phage-host interactions using a multi-omics approach, as well as developing tools for viromics data analysis.
 
 ## Education
 
