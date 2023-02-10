@@ -7,6 +7,6 @@ toc: false
 See my [google scholar](https://scholar.google.com/citations?hl=en&user=ljY5uoMAAAAJ) for a full list of publications.
 :::
 
-1. **Olayo-Alarcon, R.**, Soto, L.M*. et al. (2019) “GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning,” bioRxiv [Preprint]. Available at: https://doi.org/10.1101/839704. 
+1. **Olayo-Alarcon, R.**^\*^, Soto, L.M^\*^. et al. (2019) “GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning,” bioRxiv [Preprint]. Available at: https://doi.org/10.1101/839704. 
 
 
