@@ -1,29 +1,27 @@
 ---
-title: "Jinlong Ru"
+title: "Roberto Olayo Alarcon"
 comments: false
-image: imgs/profile.jpg
+image: imgs/pink_donuts_closer.jpg
 toc: false
 about:
   template: jolla
   links:
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=xB64MDUAAAAJ
+      href: https://scholar.google.com/
     - icon: github
       text: GitHub
-      href: https://github.com/rujinlong
+      href: https://github.com/rolayoalarcon
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/JinlongRu
+      href: https://twitter.com/Scietwas
 ---
 
 
-Hi! My name is Jinlong Ru. I am a PhD researcher at Technische Universität München (TUM) and Helmholtz Zentrum München (HMGU). My research interests include discovering novel drugs from natural products, phage therapy for combating microbial infections, and analyzing metagenomics data. My current work involves studying phage-host interactions using a multi-omics approach, as well as developing tools for viromics data analysis.
+Hi there! My name is Roberto Olayo Alarcon. I study AMR with computers.
 
 ## Education
 
-Technical University of Munich • Germany \| PhD in Bioinformatics \| Oct 2015 -
+Ludwig-Maximilians-Universität München • Germany \| PhD in Statistics \| Sep 2020 -
 
-Northwest A&F University • China \| M.S in Bioinformatics \| Sept 2012 - June 2015
-
-Northwest A&F University • China \| B.A in Biotechnology \| Sept 2008 - June 2012
+Universidad Nacional Autónoma de México (UNAM) • Mexico \| B.Sc. in Genomic Sciences \| Aug 2016 - Aug 2020
