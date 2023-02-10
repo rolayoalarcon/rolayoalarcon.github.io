@@ -8,7 +8,7 @@ about:
   links:
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com/
+      href: https://scholar.google.com/citations?hl=en&user=ljY5uoMAAAAJ
     - icon: github
       text: GitHub
       href: https://github.com/rolayoalarcon
