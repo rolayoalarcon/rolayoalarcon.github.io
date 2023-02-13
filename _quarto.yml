@@ -7,8 +7,12 @@ website:
   navbar:
     background: "#536878"
     left:
+      - text: Projects
+        href: projects.qmd
       - href: publications.qmd
         text: Publications
+      - href: contact.qmd
+        text: Contact
   page-footer:
     left: "© 2023 personal website. Powered by <a href='https://quarto.org/'>Quarto</a>."
     right:
@@ -20,5 +24,5 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     toc: true

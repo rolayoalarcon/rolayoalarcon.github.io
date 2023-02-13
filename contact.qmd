@@ -1,0 +1,30 @@
+---
+title: "Contact Me"
+toc: false
+---  
+  
+If you'd like to get in touch you can reach through one of the following. 
+  
+## Email. 
+  
+LMU: **roberto.olayo@lmu.de**
+
+Helmholtz Munich: **roberto.olayo-alarcon@helmholtz-muenchen.de**
+  
+## Social Media.  
+  
+Twitter: [@Scietwas](https://twitter.com/Scietwas)
+
+LinkedIn: [Roberto Olayo Alarcon](https://www.linkedin.com/in/roberto-olayo-alarcon-282892224/)
+  
+## Come visit me!  
+  
+Most days you can find me at the Institute of Statistics at the LMU. Send me an email first if you would like to come by...mainly to make sure I'm there. 
+  
+Ludwigstraße 33, 
+80539 München
+  
+Office Number 046 
+  
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14819.492643319742!2d11.577632422600622!3d48.14498175360626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e75952eee105f%3A0xd16eff7b89463403!2sInstitute%20of%20Statistics!5e0!3m2!1sen!2sde!4v1676282617005!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+---

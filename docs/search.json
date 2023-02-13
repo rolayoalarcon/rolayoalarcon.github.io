@@ -18,21 +18,21 @@
     "href": "index.html",
     "title": "Roberto Olayo Alarcon",
     "section": "",
-    "text": "Hi there! My name is Roberto Olayo Alarcon. I study AMR with computers."
+    "text": "Hi there! My name is Roberto. I am a PhD student at Ludwig-Maximilians-Universität München and the Helmholtz Munich under the supervision of Christian L. Müller.\nMuch of my research consists of using statistics and machine learning to gain new insights into biological systems. I particularly look into subjects related to antimicrobial resistance, and deep unsupervised learning.\nTake a look at some of my projects and posters"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Roberto Olayo Alarcon",
     "section": "Education",
-    "text": "Education\nLudwig-Maximilians-Universität München • Germany | PhD in Statistics | Sep 2020 -\nUniversidad Nacional Autónoma de México (UNAM) • Mexico | B.Sc. in Genomic Sciences | Aug 2016 - Aug 2020"
+    "text": "Education\nLudwig-Maximilians-Universität München | PhD in Statistics | Sep 2020 - Current\nUniversidad Nacional Autónoma de México | B.Sc. in Genomic Sciences | Aug 2016 - Aug 2020"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Tip\n\n\n\nSee my google scholar for a full list of publications.\n\n\n\nOlayo-Alarcon, R.*, Soto, L.M*. et al. (2019) “GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning,” bioRxiv [Preprint]. Available at: https://doi.org/10.1101/839704."
+    "text": "Tip\n\n\n\nSee my google scholar for a full list of publications.\n\n\n\nSoto, L.M*, Olayo-Alarcon, R.*. et al. (2019) “GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning,” bioRxiv [Preprint]. Available at: https://doi.org/10.1101/839704."
   },
   {
     "objectID": "gs.html",
@@ -40,5 +40,96 @@
     "title": "gs",
     "section": "",
     "text": "My publications (Sun et al. 2023) (Entfellner et al. 2022) (Peng et al. 2022) (Ma et al. 2021) (Mirzaei et al. 2020) (Malki et al. 2015) (Jiang et al. 2019) (Chen et al. 2018) (Zheng et al. 2015) (Li et al. 2015) (Li et al. 2014) (Ru et al. 2014)\n\n\n\n\nReferences\n\nChen, Yong, Yiming Jiang, Haiying Huang, Lichao Mou, Jinlong Ru, Jianhua Zhao, and Shan Xiao. 2018. “Long-Term and High-Concentration Heavy-Metal Contamination Strongly Influences the Microbiome and Functional Genes in Yellow River Sediments.” Science of The Total Environment 637–638 (October): 1400–1412. https://doi.org/10.1016/j.scitotenv.2018.05.109.\n\n\nEntfellner, Elisabeth, Ruibao Li, Yiming Jiang, Jinlong Ru, Jochen Blom, Li Deng, and Rainer Kurmayer. 2022. “Toxic/Bioactive Peptide Synthesis Genes Rearranged by Insertion Sequence Elements Among the Bloom-Forming Cyanobacteria Planktothrix.” Frontiers in Microbiology 13. https://doi.org/10.3389/fmicb.2022.901762.\n\n\nJiang, Yiming, Haiying Huang, Tianli Ma, Jinlong Ru, Stephan Blank, Rainer Kurmayer, and Li Deng. 2019. “Temperature Response of Planktonic Microbiota in Remote Alpine Lakes.” Frontiers in Microbiology 10. https://doi.org/10.3389/fmicb.2019.01714.\n\n\nLi, Peng, Yingxue Fu, Jinlong Ru, Chao Huang, Jiangfeng Du, Chunli Zheng, Xuetong Chen, et al. 2014. “Insights from Systems Pharmacology into Cardiovascular Drug Discovery and Therapy.” BMC Systems Biology 8 (1): 141. https://doi.org/10.1186/s12918-014-0141-z.\n\n\nLi, Peng, Chao Huang, Yingxue Fu, Jinan Wang, Ziyin Wu, Jinlong Ru, Chunli Zheng, et al. 2015. “Large-Scale Exploration and Analysis of Drug Combinations.” Bioinformatics 31 (12): 2007–16. https://doi.org/10.1093/bioinformatics/btv080.\n\n\nMa, Tianli, Jinlong Ru, Jinling Xue, Sarah Schulz, Mohammadali Khan Mirzaei, Klaus-Peter Janssen, Michael Quante, and Li Deng. 2021. “Differences in Gut Virome Related to Barrett Esophagus and Esophageal Adenocarcinoma.” Microorganisms 9 (8): 1701. https://doi.org/10.3390/microorganisms9081701.\n\n\nMalki, Kema, Alex Kula, Katherine Bruder, Emily Sible, Thomas Hatzopoulos, Stephanie Steidel, Siobhan C. Watkins, and Catherine Putonti. 2015. “Bacteriophages Isolated from Lake Michigan Demonstrate Broad Host-Range Across Several Bacterial Phyla.” Virology Journal 12 (1): 164. https://doi.org/10.1186/s12985-015-0395-0.\n\n\nMirzaei, Mohammadali Khan, Jinling Xue, Rita Costa, Jinlong Ru, Sarah Schulz, Zofia E. Taranu, and Li Deng. 2020. “Challenges of Studying the Human Virome Relevant Emerging Technologies.” Trends in Microbiology 0 (0). https://doi.org/10.1016/j.tim.2020.05.021.\n\n\nPeng, Xue, Jinlong Ru, Mohammadali Khan Mirzaei, and Li Deng. 2022. “Replidec - Use Naive Bayes Classifier to Identify Virus Lifecycle from Metagenomics Data.” bioRxiv, July, 2022.07.18.500415. https://doi.org/10.1101/2022.07.18.500415.\n\n\nRu, Jinlong, Peng Li, Jinan Wang, Wei Zhou, Bohui Li, Chao Huang, Pidong Li, et al. 2014. “TCMSP: A Database of Systems Pharmacology for Drug Discovery from Herbal Medicines.” Journal of Cheminformatics 6 (1): 13. https://doi.org/10.1186/1758-2946-6-13.\n\n\nSun, Jianfeng, Jinlong Ru, Lorenzo Ramos-Mucci, Fei Qi, Zihao Chen, Suyuan Chen, Adam P. Cribbs, Li Deng, and Xia Wang. 2023. “DeepsmirUD: Prediction of Regulatory Effects on microRNA Expression Mediated by Small Molecules Using Deep Learning.” International Journal of Molecular Sciences 24 (3): 1878. https://doi.org/10.3390/ijms24031878.\n\n\nZheng, Chunli, Zihu Guo, Chao Huang, Ziyin Wu, Yan Li, Xuetong Chen, Yingxue Fu, et al. 2015. “Large-Scale Direct Targeting for Drug Repositioning and Discovery.” Scientific Reports 5 (1): 11970. https://doi.org/10.1038/srep11970."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some of the things I am working on at the moment."
+  },
+  {
+    "objectID": "projects.html#stressregnet",
+    "href": "projects.html#stressregnet",
+    "title": "Projects",
+    "section": "StressRegNet",
+    "text": "StressRegNet\n\nThis is the main project driving my PhD research. Here, we aim to identify chemical stressors and the bacterial regulatory pathways that control host adaptation and antibiotic sensitivity. By using a high-throughput chemical genomics approach, we will explore chemical stimuli from the host environment that induce stress response pathways in Salmonella and Campylobacter, and elucidate the underlying molecular crosstalk between sensory pathways of these microbes.\nThis project is part of the bavarian Bayresq research consortium, and is done in close colaboration with members of Dr. Cynthia Sharma and Dr. Ana Rita Brochado research groups."
+  },
+  {
+    "objectID": "projects.html#stressregnet---bacterial-response-to-chemical-stress",
+    "href": "projects.html#stressregnet---bacterial-response-to-chemical-stress",
+    "title": "Projects",
+    "section": "StressRegNet - Bacterial response to chemical stress",
+    "text": "StressRegNet - Bacterial response to chemical stress\n\nThis is the main project driving my PhD research. Here, we aim to identify stressors and bacterial regulatory pathways that control host adaptation and antibiotic sensitivity. By using a high-throughput chemical genomics approach, we will explore chemical stimuli from the host environment that induce stress response pathways in Salmonella and Campylobacter, and elucidate the underlying molecular crosstalk between sensory pathways of these microbes.\nThis project is part of the bavarian Bayresq research consortium, and is done in close colaboration with members of Dr. Cynthia Sharma and Dr. Ana Rita Brochado research groups."
+  },
+  {
+    "objectID": "projects.html#comparing-musical-taste-with-spotify.",
+    "href": "projects.html#comparing-musical-taste-with-spotify.",
+    "title": "Projects",
+    "section": "Comparing Musical taste with Spotify.",
+    "text": "Comparing Musical taste with Spotify.\n\nHave you ever wondered what makes your taste in music unique to that of all your friends? You can check out some exploratory analysis I made comparing my music taste to that of some of my friends! Music taste analysis"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "If you’d like to get in touch you can reach through one of the following."
+  },
+  {
+    "objectID": "contact.html#email.",
+    "href": "contact.html#email.",
+    "title": "Contact Me",
+    "section": "Email.",
+    "text": "Email.\nLMU: roberto.olayo@lmu.de\nHelmholtz Munich: roberto.olayo-alarcon@helmholtz-muenchen.de"
+  },
+  {
+    "objectID": "contact.html#social-media.",
+    "href": "contact.html#social-media.",
+    "title": "Contact Me",
+    "section": "Social Media.",
+    "text": "Social Media.\nTwitter: @Scietwas\nLinkedIn: Roberto Olayo Alarcon"
+  },
+  {
+    "objectID": "contact.html#come-visit-me",
+    "href": "contact.html#come-visit-me",
+    "title": "Contact Me",
+    "section": "Come visit me!",
+    "text": "Come visit me!\nMost days you can find me at the Institute of Statistics at the LMU. Send me an email first if you would like to come by…mainly to make sure I’m there.\nLudwigstraße 33, 80539 München\nOffice Number 046"
+  },
+  {
+    "objectID": "publications.html#bachelors-thesis",
+    "href": "publications.html#bachelors-thesis",
+    "title": "Publications",
+    "section": "Bachelor’s Thesis",
+    "text": "Bachelor’s Thesis\nRoberto Olayo Alarcón (2020) Differential Activity of Transcriptional Regulatory Elements During Glucose Starvation. Research Report to obtain the degree of B.Sc. in Genomic Sciences. Universidad Nacional Autónoma de México.\n\nFull thesis here."
+  },
+  {
+    "objectID": "publications.html#stressregnet-molecular-representations-decipher-stress-response-in-gut-pathogens",
+    "href": "publications.html#stressregnet-molecular-representations-decipher-stress-response-in-gut-pathogens",
+    "title": "Publications",
+    "section": "1. StressRegNet: Molecular representations decipher stress response in gut pathogens",
+    "text": "1. StressRegNet: Molecular representations decipher stress response in gut pathogens\nRoberto Olayo-Alarcon*, Martin K. Amstalden, Annamaria Zannoni, et al. (2022)\nPresented at Keystone Symposia - Novel Approaches Against Emerging Antimicrobial Resistance.\nAWAREDED KEYSTONE SYMPOSIA SCHOLARSHIP.\n\nPDF version here."
+  },
+  {
+    "objectID": "publications.html#cheminformatics-deciphers-stress-response-and-virulence-pathways-in-infection",
+    "href": "publications.html#cheminformatics-deciphers-stress-response-and-virulence-pathways-in-infection",
+    "title": "Publications",
+    "section": "2. Cheminformatics deciphers stress response and virulence pathways in infection",
+    "text": "2. Cheminformatics deciphers stress response and virulence pathways in infection\nRoberto Olayo-Alarcon*, Christoph Binsfeld, Ana Rita Brochado, Christian L. Müller. (2022)\nPresented at DAGStat 2022 - Hamburg\n\nPDF version here."
+  },
+  {
+    "objectID": "publications.html#rnf43-in-colitis-associated-cancer.",
+    "href": "publications.html#rnf43-in-colitis-associated-cancer.",
+    "title": "Publications",
+    "section": "3. RNF43 in colitis associated cancer.",
+    "text": "3. RNF43 in colitis associated cancer.\nAlisa Dietl*, Mara Stadler, Roberto Olayo-Alarcon, et al. (2022)\nPresented at Digestive Disease Week - 2022"
+  },
+  {
+    "objectID": "publications.html#glucose-starvation-in-huh7-cells-triggers-a-transcriptional-memory.",
+    "href": "publications.html#glucose-starvation-in-huh7-cells-triggers-a-transcriptional-memory.",
+    "title": "Publications",
+    "section": "4. Glucose starvation in Huh7 cells triggers a transcriptional memory.",
+    "text": "4. Glucose starvation in Huh7 cells triggers a transcriptional memory.\nJessica A. Pellegrino*, Saulius Lukauskas, Roberto Olayo-Alarcon, et al. (2019).\nPresented at CSH meeting: mechanisms of metabolic signaling"
   }
 ]

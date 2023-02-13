@@ -1,0 +1,30 @@
+---
+title: "Projects"
+toc: false
+---
+
+Here are some of the things I am working on at the moment.
+  
+  
+# Academic Projects
+
+## StressRegNet
+![](imgs/stressregnet.jpg){width=600}
+
+This is the main project driving my PhD research. Here, we aim to identify chemical stressors and the bacterial regulatory pathways that control host adaptation and antibiotic sensitivity. By using a high-throughput chemical genomics approach, we will explore chemical stimuli from the host environment that induce stress response pathways in Salmonella and Campylobacter, and elucidate the underlying molecular crosstalk between sensory pathways of these microbes.  
+
+
+This project is part of the bavarian [Bayresq](https://bayresq.net/) research consortium, and is done in close colaboration with members of [Dr. Cynthia Sharma](http://www.imib-wuerzburg.de/research/sharma/research/) and [Dr. Ana Rita Brochado](https://www.brochadolab.com/) research groups.
+
+
+# Non-Academic Projects    
+  
+  
+I also like to dabble on other types of analysis. Here are some things I've done for fun.  
+  
+## Comparing Musical taste with Spotify. 
+  
+![](imgs/musical_pca.png){width=600}
+  
+Have you ever wondered what makes your taste in music unique to that of all your friends? You can check out some exploratory analysis I made comparing my music taste to that of some of my friends! [Music taste analysis](https://rolayoalarcon.github.io/spotify_taste/)
+---

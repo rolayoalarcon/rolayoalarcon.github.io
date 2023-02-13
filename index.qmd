@@ -4,24 +4,31 @@ comments: false
 image: imgs/pink_donuts_closer.jpg
 toc: false
 about:
-  template: jolla
+  template: trestles
   links:
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com/citations?hl=en&user=ljY5uoMAAAAJ
     - icon: github
       text: GitHub
       href: https://github.com/rolayoalarcon
     - icon: twitter
       text: Twitter
       href: https://twitter.com/Scietwas
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=ljY5uoMAAAAJ
 ---
 
 
-Hi there! My name is Roberto Olayo Alarcon. I study AMR with computers.
+Hi there! My name is Roberto. I am a PhD student at **Ludwig-Maximilians-Universität München** and the **Helmholtz Munich** under the supervision of [Christian L. Müller](https://bio-datascience.github.io/).   
+  
+Much of my research consists of using **statistics and machine learning** to gain new insights into **biological systems**. I particularly look into  subjects related to **antimicrobial resistance**, and **deep unsupervised learning**. 
+
+Take a look at some of my [projects](projects.qmd) and [posters](publications.qmd#Posters)
+  
+
+
 
 ## Education
 
-Ludwig-Maximilians-Universität München • Germany \| PhD in Statistics \| Sep 2020 -
+**Ludwig-Maximilians-Universität München** \| PhD in Statistics \| Sep 2020 - Current
 
-Universidad Nacional Autónoma de México (UNAM) • Mexico \| B.Sc. in Genomic Sciences \| Aug 2016 - Aug 2020
+**Universidad Nacional Autónoma de México** \| B.Sc. in Genomic Sciences \| Aug 2016 - Aug 2020
