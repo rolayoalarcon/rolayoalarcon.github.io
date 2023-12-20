@@ -108,28 +108,35 @@
     "objectID": "publications.html#stressregnet-molecular-representations-decipher-stress-response-in-gut-pathogens",
     "href": "publications.html#stressregnet-molecular-representations-decipher-stress-response-in-gut-pathogens",
     "title": "Publications",
-    "section": "1. StressRegNet: Molecular representations decipher stress response in gut pathogens",
-    "text": "1. StressRegNet: Molecular representations decipher stress response in gut pathogens\nRoberto Olayo-Alarcon*, Martin K. Amstalden, Annamaria Zannoni, et al. (2022)\nPresented at Keystone Symposia - Novel Approaches Against Emerging Antimicrobial Resistance.\nAWAREDED KEYSTONE SYMPOSIA SCHOLARSHIP.\n\nPDF version here."
+    "section": "2. StressRegNet: Molecular representations decipher stress response in gut pathogens",
+    "text": "2. StressRegNet: Molecular representations decipher stress response in gut pathogens\nRoberto Olayo-Alarcon*, Martin K. Amstalden, Annamaria Zannoni, et al. (2022)\nPresented at Keystone Symposia - Novel Approaches Against Emerging Antimicrobial Resistance.\nAWAREDED KEYSTONE SYMPOSIA SCHOLARSHIP.\n\nPDF version here."
   },
   {
     "objectID": "publications.html#cheminformatics-deciphers-stress-response-and-virulence-pathways-in-infection",
     "href": "publications.html#cheminformatics-deciphers-stress-response-and-virulence-pathways-in-infection",
     "title": "Publications",
-    "section": "2. Cheminformatics deciphers stress response and virulence pathways in infection",
-    "text": "2. Cheminformatics deciphers stress response and virulence pathways in infection\nRoberto Olayo-Alarcon*, Christoph Binsfeld, Ana Rita Brochado, Christian L. Müller. (2022)\nPresented at DAGStat 2022 - Hamburg\n\nPDF version here."
+    "section": "3. Cheminformatics deciphers stress response and virulence pathways in infection",
+    "text": "3. Cheminformatics deciphers stress response and virulence pathways in infection\nRoberto Olayo-Alarcon*, Christoph Binsfeld, Ana Rita Brochado, Christian L. Müller. (2022)\nPresented at DAGStat 2022 - Hamburg\n\nPDF version here."
   },
   {
     "objectID": "publications.html#rnf43-in-colitis-associated-cancer.",
     "href": "publications.html#rnf43-in-colitis-associated-cancer.",
     "title": "Publications",
-    "section": "3. RNF43 in colitis associated cancer.",
-    "text": "3. RNF43 in colitis associated cancer.\nAlisa Dietl*, Mara Stadler, Roberto Olayo-Alarcon, et al. (2022)\nPresented at Digestive Disease Week - 2022"
+    "section": "4. RNF43 in colitis associated cancer.",
+    "text": "4. RNF43 in colitis associated cancer.\nAlisa Dietl*, Mara Stadler, Roberto Olayo-Alarcon, et al. (2022)\nPresented at Digestive Disease Week - 2022"
   },
   {
     "objectID": "publications.html#glucose-starvation-in-huh7-cells-triggers-a-transcriptional-memory.",
     "href": "publications.html#glucose-starvation-in-huh7-cells-triggers-a-transcriptional-memory.",
     "title": "Publications",
-    "section": "4. Glucose starvation in Huh7 cells triggers a transcriptional memory.",
-    "text": "4. Glucose starvation in Huh7 cells triggers a transcriptional memory.\nJessica A. Pellegrino*, Saulius Lukauskas, Roberto Olayo-Alarcon, et al. (2019).\nPresented at CSH meeting: mechanisms of metabolic signaling"
+    "section": "5. Glucose starvation in Huh7 cells triggers a transcriptional memory.",
+    "text": "5. Glucose starvation in Huh7 cells triggers a transcriptional memory.\nJessica A. Pellegrino*, Saulius Lukauskas, Roberto Olayo-Alarcon, et al. (2019).\nPresented at CSH meeting: mechanisms of metabolic signaling"
+  },
+  {
+    "objectID": "publications.html#mole-pre-trained-molecular-representations-can-aid-antimicrobial-discovery.",
+    "href": "publications.html#mole-pre-trained-molecular-representations-can-aid-antimicrobial-discovery.",
+    "title": "Publications",
+    "section": "1. MolE: Pre-trained molecular representations can aid antimicrobial discovery.",
+    "text": "1. MolE: Pre-trained molecular representations can aid antimicrobial discovery.\nRoberto Olayo-Alarcon*, Martin K. Amstalden, Annamaria Zannoni, et al. (2023)\nPresented at ISMB/ECCB 2023\n\nPDF version here."
   }
 ]

@@ -13,9 +13,18 @@ See my [google scholar](https://scholar.google.com/citations?hl=en&user=ljY5uoMA
 ![](imgs/gedex_pipeline.png){width=600}
 
 # Posters 
+  
+## 1. MolE: Pre-trained molecular representations can aid antimicrobial discovery. 
+  
+**Roberto Olayo-Alarcon**^\*^, Martin K. Amstalden, Annamaria Zannoni, et al. (2023)  
+  
+Presented at **ISMB/ECCB 2023**
 
+<p>PDF version<a href="pdfs/ISMBECCB2023_1248_OlayoAlarcon_poster"> here</a>.</p>  
+  
+![](imgs/ismbeccb_poster.png){width=600}
 
-## 1. StressRegNet: Molecular representations decipher stress response in gut pathogens   
+## 2. StressRegNet: Molecular representations decipher stress response in gut pathogens   
   
 **Roberto Olayo-Alarcon**^\*^, Martin K. Amstalden, Annamaria Zannoni, et al. (2022) 
 
@@ -28,7 +37,7 @@ Presented at **Keystone Symposia - Novel Approaches Against Emerging Antimicrobi
 ![](imgs/keyston_poster.png){width=600}
 
 
-## 2. Cheminformatics deciphers stress response and virulence pathways in infection  
+## 3. Cheminformatics deciphers stress response and virulence pathways in infection  
   
 **Roberto Olayo-Alarcon**^\*^, Christoph Binsfeld, Ana Rita Brochado, Christian L. Müller. (2022)   
    
@@ -38,14 +47,14 @@ Presented at **DAGStat 2022 - Hamburg**
 
 ![](imgs/dagstat_poster_2022.png){width=600}
 
-## 3. RNF43 in colitis associated cancer. 
+## 4. RNF43 in colitis associated cancer. 
   
 Alisa Dietl^\*^, Mara Stadler, **Roberto Olayo-Alarcon**, et al. (2022) 
   
 Presented at **Digestive Disease Week - 2022**
   
   
-## 4. Glucose starvation in Huh7 cells triggers a transcriptional memory. 
+## 5. Glucose starvation in Huh7 cells triggers a transcriptional memory. 
   
 Jessica A. Pellegrino^\*^, Saulius Lukauskas, **Roberto Olayo-Alarcon**, et al. (2019). 
   
