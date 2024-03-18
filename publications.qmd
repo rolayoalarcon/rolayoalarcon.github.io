@@ -4,70 +4,73 @@ toc: false
 ---
 
 # Articles
-::: {.callout-tip}
+
+::: callout-tip
 See my [google scholar](https://scholar.google.com/citations?hl=en&user=ljY5uoMAAAAJ) for a full list of publications.
 :::
 
-1. Soto, L.M^\*^, **Olayo-Alarcon, R.**^\*^. et al. (2019) “GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning,” bioRxiv [Preprint]. Available at: [https://doi.org/10.1101/839704](https://doi.org/10.1101/839704).   
+1.  **Olayo-Alarcon, R.**, Amstalden, M. K., Zannoni, A., Bajramovic, M., Sharma, C. M., Brochado, A. R., ... & Müller, C. L. (2024). Pre-trained molecular representations enable antimicrobial discovery. bioRxiv, 2024-03. \[Preprint\] Available at: <https://www.biorxiv.org/content/10.1101/2024.03.11.584456v1.abstract>.
+  
+![](imgs/pretrain_labelled.png){width="400"}
 
-![](imgs/gedex_pipeline.png){width=600}
+2.  Dietl, A., Ralser, A., Taxauer, K., Dregelies, T., Sterlacci, W., Stadler, M., **Olayo-Alarcon, R.**, ... & Mejias Luque, R. (2024). RNF43 is a gatekeeper for colitis-associated cancer. bioRxiv, 2024-01. \[Preprint\] Available at: <https://www.biorxiv.org/content/10.1101/2024.01.30.577936v1.abstract>.
 
-# Posters 
-  
-## 1. MolE: Pre-trained molecular representations can aid antimicrobial discovery. 
-  
-**Roberto Olayo-Alarcon**^\*^, Martin K. Amstalden, Annamaria Zannoni, et al. (2023)  
-  
+3.  Soto, L.M^\*^, **Olayo-Alarcon, R.**^\*^. et al. (2019) "GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning," bioRxiv \[Preprint\]. Available at: <https://doi.org/10.1101/839704>.
+
+![](imgs/gedex_pipeline.png){width="400"}
+
+# Posters
+
+## 1. MolE: Pre-trained molecular representations can aid antimicrobial discovery.
+
+**Roberto Olayo-Alarcon**^\*^, Martin K. Amstalden, Annamaria Zannoni, et al. (2023)
+
 Presented at **ISMB/ECCB 2023**
 
-<p>PDF version<a href="pdfs/ISMBECCB2023_1248_OlayoAlarcon_poster"> here</a>.</p>  
-  
-![](imgs/ismbeccb_poster.png){width=600}
+<p>PDF version<a href="pdfs/ISMBECCB2023_1248_OlayoAlarcon_poster"> here</a>.</p>
 
-## 2. StressRegNet: Molecular representations decipher stress response in gut pathogens   
-  
-**Roberto Olayo-Alarcon**^\*^, Martin K. Amstalden, Annamaria Zannoni, et al. (2022) 
+![](imgs/ismbeccb_poster.png){width="600"}
 
-Presented at **Keystone Symposia - Novel Approaches Against Emerging Antimicrobial Resistance**. 
+## 2. StressRegNet: Molecular representations decipher stress response in gut pathogens
 
-**AWAREDED KEYSTONE SYMPOSIA SCHOLARSHIP**.    
+**Roberto Olayo-Alarcon**^\*^, Martin K. Amstalden, Annamaria Zannoni, et al. (2022)
 
-<p>PDF version<a href="pdfs/keystone_poster.pdf"> here</a>.</p> 
+Presented at **Keystone Symposia - Novel Approaches Against Emerging Antimicrobial Resistance**.
 
-![](imgs/keyston_poster.png){width=600}
+**AWAREDED KEYSTONE SYMPOSIA SCHOLARSHIP**.
 
+<p>PDF version<a href="pdfs/keystone_poster.pdf"> here</a>.</p>
 
-## 3. Cheminformatics deciphers stress response and virulence pathways in infection  
-  
-**Roberto Olayo-Alarcon**^\*^, Christoph Binsfeld, Ana Rita Brochado, Christian L. Müller. (2022)   
-   
-Presented at **DAGStat 2022 - Hamburg** 
-    
-<p>PDF version<a href="pdfs/dagstat_poster_2022.pdf"> here</a>.</p> 
+![](imgs/keyston_poster.png){width="600"}
 
-![](imgs/dagstat_poster_2022.png){width=600}
+## 3. Cheminformatics deciphers stress response and virulence pathways in infection
 
-## 4. RNF43 in colitis associated cancer. 
-  
-Alisa Dietl^\*^, Mara Stadler, **Roberto Olayo-Alarcon**, et al. (2022) 
-  
+**Roberto Olayo-Alarcon**^\*^, Christoph Binsfeld, Ana Rita Brochado, Christian L. Müller. (2022)
+
+Presented at **DAGStat 2022 - Hamburg**
+
+<p>PDF version<a href="pdfs/dagstat_poster_2022.pdf"> here</a>.</p>
+
+![](imgs/dagstat_poster_2022.png){width="600"}
+
+## 4. RNF43 in colitis associated cancer.
+
+Alisa Dietl^\*^, Mara Stadler, **Roberto Olayo-Alarcon**, et al. (2022)
+
 Presented at **Digestive Disease Week - 2022**
-  
-  
-## 5. Glucose starvation in Huh7 cells triggers a transcriptional memory. 
-  
-Jessica A. Pellegrino^\*^, Saulius Lukauskas, **Roberto Olayo-Alarcon**, et al. (2019). 
-  
+
+## 5. Glucose starvation in Huh7 cells triggers a transcriptional memory.
+
+Jessica A. Pellegrino^\*^, Saulius Lukauskas, **Roberto Olayo-Alarcon**, et al. (2019).
+
 Presented at **CSH meeting: mechanisms of metabolic signaling**
 
-  
-# Other 
-  
+# Other
+
 ## Bachelor's Thesis
-  
-Roberto Olayo Alarcón (2020) **Differential Activity of Transcriptional Regulatory Elements During Glucose Starvation**. Research Report to obtain the degree of B.Sc. in Genomic Sciences. Universidad Nacional Autónoma de México.  
-    
-<p>Full thesis<a href="pdfs/bachelor_thesis.pdf"> here</a>.</p>    
 
-![](imgs/DA_ma_heatmap_grid.png){width=600}
+Roberto Olayo Alarcón (2020) **Differential Activity of Transcriptional Regulatory Elements During Glucose Starvation**. Research Report to obtain the degree of B.Sc. in Genomic Sciences. Universidad Nacional Autónoma de México.
 
+<p>Full thesis<a href="pdfs/bachelor_thesis.pdf"> here</a>.</p>
+
+![](imgs/DA_ma_heatmap_grid.png){width="600"}
