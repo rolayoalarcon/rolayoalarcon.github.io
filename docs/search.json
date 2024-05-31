@@ -2,14 +2,14 @@
   {
     "objectID": "tools.html",
     "href": "tools.html",
-    "title": "Jinlong Ru",
+    "title": "Roberto Olayo",
     "section": "",
     "text": "ViroProfiler: a containerized bioinformatics pipeline for viral metagenomic data analysis\nTPD: a computational pipeline for therapeutic phage discovery from prophages"
   },
   {
     "objectID": "tools.html#database",
     "href": "tools.html#database",
-    "title": "Jinlong Ru",
+    "title": "Roberto Olayo",
     "section": "Database",
     "text": "Database\n\nTCMSP: a database of systems pharmacology for drug discovery from herbal medicines\nDeepsmirUD_web: a database of predicted small molecule-mediated regulatory effects on miRNA expression"
   },
@@ -138,5 +138,12 @@
     "title": "Publications",
     "section": "1. MolE: Pre-trained molecular representations can aid antimicrobial discovery.",
     "text": "1. MolE: Pre-trained molecular representations can aid antimicrobial discovery.\nRoberto Olayo-Alarcon*, Martin K. Amstalden, Annamaria Zannoni, et al. (2023)\nPresented at ISMB/ECCB 2023\n\nPDF version here."
+  },
+  {
+    "objectID": "tools.html#software",
+    "href": "tools.html#software",
+    "title": "Roberto Olayo",
+    "section": "",
+    "text": "ViroProfiler: a containerized bioinformatics pipeline for viral metagenomic data analysis\nTPD: a computational pipeline for therapeutic phage discovery from prophages"
   }
 ]
