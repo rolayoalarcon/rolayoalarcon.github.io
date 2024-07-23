@@ -1,7 +1,7 @@
 ---
 title: "Roberto Olayo Alarcon"
 comments: false
-image: imgs/portrait_whiteboard.jpg
+image: imgs/portrait_whiteboard.jpeg
 toc: false
 about:
   template: trestles
