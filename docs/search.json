@@ -16,14 +16,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Roberto Olayo Alarcon",
+    "title": "Roberto Olayo-Alarcon",
     "section": "",
-    "text": "Hi there! My name is Roberto. I am a PhD student at Ludwig-Maximilians-Universität München and the Helmholtz Munich under the supervision of Christian L. Müller.\nMuch of my research consists of using statistics and machine learning to gain new insights into biological systems. I particularly look into subjects related to antimicrobial resistance, and deep unsupervised learning.\nTake a look at some of my projects and posters"
+    "text": "Hi there! My name is Roberto. I am a PhD student at Ludwig-Maximilians-Universität München and the Helmholtz Munich under the supervision of Christian L. Müller.\nMuch of my research consists of using statistics and machine learning to gain new insights into biological phenomena. I particularly look into subjects related to antimicrobial resistance, analysis of chemical perturbations, self-supervised deep learning, etc.\nTake a look at some of my projects and publications."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Roberto Olayo Alarcon",
+    "title": "Roberto Olayo-Alarcon",
     "section": "Education",
     "text": "Education\nLudwig-Maximilians-Universität München | PhD in Statistics | Sep 2020 - Current\nUniversidad Nacional Autónoma de México | B.Sc. in Genomic Sciences | Aug 2016 - Aug 2020"
   },
@@ -32,7 +32,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Tip\n\n\n\nSee my google scholar for a full list of publications.\n\n\n\nOlayo-Alarcon, R., Amstalden, M. K., Zannoni, A., Bajramovic, M., Sharma, C. M., Brochado, A. R., … & Müller, C. L. (2024). Pre-trained molecular representations enable antimicrobial discovery. bioRxiv, 2024-03. [Preprint] Available at: https://www.biorxiv.org/content/10.1101/2024.03.11.584456v1.abstract.\n\n\n\nDietl, A., Ralser, A., Taxauer, K., Dregelies, T., Sterlacci, W., Stadler, M., Olayo-Alarcon, R., … & Mejias Luque, R. (2024). RNF43 is a gatekeeper for colitis-associated cancer. bioRxiv, 2024-01. [Preprint] Available at: https://www.biorxiv.org/content/10.1101/2024.01.30.577936v1.abstract.\nSoto, L.M*, Olayo-Alarcon, R.*. et al. (2019) “GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning,” bioRxiv [Preprint]. Available at: https://doi.org/10.1101/839704."
+    "text": "Tip\n\n\n\nSee my google scholar for a full list of publications.\n\n\n\nOlayo-Alarcon, R., Amstalden, M. K., Zannoni, A., Bajramovic, M., Sharma, C. M., Brochado, A. R., … & Müller, C. L. (2025). Pre-trained molecular representations enable antimicrobial discovery. Nature Communications, 16(1), 3420.\nFeldl, M.*, Olayo-Alarcon, R.*, Amstalden, M. K., Zannoni, A., Peschel, S., Sharma, C. M., … & Müller, C. L. (2025). Statistical end-to-end analysis of large-scale microbial growth data with DGrowthR. bioRxiv, 2025-03.\nBinsfeld, C., Olayo-Alarcon, R., Wartel, M., Stadler, M., Mueller, C., & Brochado, A. R. (2024). Systematic Characterization of Transport Regulation in Escherichia coli across defined environmental cues. bioRxiv, 2024-08.\nOstner, J., Kirk, T., Olayo-Alarcon, R., Thöming, J. G., Rosenthal, A. Z., Häussler, S., & Müller, C. L. (2024). BacSC: A general workflow for bacterial single-cell RNA sequencing data analysis. bioRxiv, 2024-06.\nStadler, M., Olayo-Alarcon, R., Bien, J., & Müller, C. L. (2024). Predictive modeling of microbial data with interaction effects. bioRxiv, 2024-04.\nDietl, A., Ralser, A., Taxauer, K., Dregelies, T., Sterlacci, W., Stadler, M., Olayo-Alarcon, R., … & Mejias Luque, R. (2024). RNF43 is a gatekeeper for colitis-associated cancer. bioRxiv, 2024-01. [Preprint] Available at: https://www.biorxiv.org/content/10.1101/2024.01.30.577936v1.abstract.\nSoto, L.M*, Olayo-Alarcon, R.*. et al. (2019) “GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning,” bioRxiv [Preprint]. Available at: https://doi.org/10.1101/839704."
   },
   {
     "objectID": "gs.html",
@@ -46,14 +46,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are some of the things I am working on at the moment."
+    "text": "Here are some of the things I’ve been working on."
   },
   {
     "objectID": "projects.html#stressregnet",
     "href": "projects.html#stressregnet",
     "title": "Projects",
     "section": "StressRegNet",
-    "text": "StressRegNet\n\nThis is the main project driving my PhD research. Here, we aim to identify chemical stressors and the bacterial regulatory pathways that control host adaptation and antibiotic sensitivity. By using a high-throughput chemical genomics approach, we will explore chemical stimuli from the host environment that induce stress response pathways in Salmonella and Campylobacter, and elucidate the underlying molecular crosstalk between sensory pathways of these microbes.\nThis project is part of the bavarian Bayresq research consortium, and is done in close colaboration with members of Dr. Cynthia Sharma and Dr. Ana Rita Brochado research groups."
+    "text": "StressRegNet\n\nHere, we aim to identify chemical stressors and the bacterial regulatory pathways that control host adaptation and antibiotic sensitivity. By using a high-throughput chemical genomics approach, we will explore chemical stimuli from the host environment that induce stress response pathways in Salmonella and Campylobacter, and elucidate the underlying molecular crosstalk between sensory pathways of these microbes.\nThis project is part of the bavarian Bayresq research consortium, and is done in close colaboration with members of Dr. Cynthia Sharma and Dr. Ana Rita Brochado research groups."
   },
   {
     "objectID": "projects.html#stressregnet---bacterial-response-to-chemical-stress",
@@ -88,7 +88,7 @@
     "href": "contact.html#social-media.",
     "title": "Contact Me",
     "section": "Social Media.",
-    "text": "Social Media.\nTwitter: @Scietwas\nLinkedIn: Roberto Olayo Alarcon"
+    "text": "Social Media.\nTwitter: @Scietwas Bluesky: @robolayo.bsky.social LinkedIn: Roberto Olayo Alarcon"
   },
   {
     "objectID": "contact.html#come-visit-me",
@@ -145,5 +145,40 @@
     "title": "Roberto Olayo",
     "section": "",
     "text": "ViroProfiler: a containerized bioinformatics pipeline for viral metagenomic data analysis\nTPD: a computational pipeline for therapeutic phage discovery from prophages"
+  },
+  {
+    "objectID": "projects.html#pre-trained-molecular-representations-enable-antimicrobial-discovery",
+    "href": "projects.html#pre-trained-molecular-representations-enable-antimicrobial-discovery",
+    "title": "Projects",
+    "section": "Pre-trained molecular representations enable antimicrobial discovery",
+    "text": "Pre-trained molecular representations enable antimicrobial discovery"
+  },
+  {
+    "objectID": "projects.html#mole-enables-antimicrobial-discovery.",
+    "href": "projects.html#mole-enables-antimicrobial-discovery.",
+    "title": "Projects",
+    "section": "MolE enables antimicrobial discovery.",
+    "text": "MolE enables antimicrobial discovery.\n\nIn this project, we developed a self-supervised deep learning model that learns a representation of molecular structures that captures important chemical and topological features. We apply this framework to the task of antimicrobial discovery, where we show that our model can be used to predict antimicrobial activity of molecules with high accuracy. Using our model’s predictions, we identified new antimicrobial compounds that were experimentally confirmed to be active against the human pathogen Staphylococcus aureus.\nRead the paper published in Nature Communications\nGitHub repositories:\n- MolE.\n- mole_antimicrobial_potential."
+  },
+  {
+    "objectID": "projects.html#dgrowthr-comprehensive-analysis-of-bacterial-growth.",
+    "href": "projects.html#dgrowthr-comprehensive-analysis-of-bacterial-growth.",
+    "title": "Projects",
+    "section": "DGrowthR: Comprehensive analysis of bacterial growth.",
+    "text": "DGrowthR: Comprehensive analysis of bacterial growth.\n\nIn this project, we developed a comprehensive framework for the analysis of bacterial growth data, based on Gaussian Process regression. Without the need for any prior assumptions about the functional form of the growth curve, our method can accurately estimate growth parameters, provides options for exploratory data analysis, and a statistical testing framework to compare growth curves across different conditions. Using this tool we analyzed multiple datasets, uncovering and extending previous findings on the growth of bacteria in response to chemical perturbations.\nRead the pre-print.\nGitHub links:\nDGrowthR."
+  },
+  {
+    "objectID": "projects.html#statistical-modeling-of-bacterial-stress-response.",
+    "href": "projects.html#statistical-modeling-of-bacterial-stress-response.",
+    "title": "Projects",
+    "section": "Statistical modeling of bacterial stress response.",
+    "text": "Statistical modeling of bacterial stress response.\n\nHere, we created a statistical model that analyzes data from chemical-genetic screens to identify the regulatory relationships that control bacterial stress response. We developed a hierarchical interaction model that captures regulator contributions to the observed changes in gene expression in Escherichia coli in response to chemical perturbations. Using this model, we identified the regulatory networks responsible for antibiotic antagonism mediated by Caffeine. This project was done in close collaboration with Christoph Binsfeld and Dr. Ana Rita Brochado.\nRead the pre-print now accepted in Plos Biology."
+  },
+  {
+    "objectID": "projects.html#bacterial-single-cell-rna-seq-analysis.",
+    "href": "projects.html#bacterial-single-cell-rna-seq-analysis.",
+    "title": "Projects",
+    "section": "Bacterial Single-Cell RNA-Seq analysis.",
+    "text": "Bacterial Single-Cell RNA-Seq analysis.\n\nIn this project, led by Johannes Ostner, we developed a general workflow for the analysis of bacterial single-cell RNA sequencing data. We created a set of tools that allow for quality control, normalization, clustering, and differential expression analysis. We applied this workflow to analyze single-cell RNA-seq data from Bacillus subtilis, Pseudomonas aeruginosa, and Klebsiella pneumoniae.\nRead the pre-print."
   }
 ]

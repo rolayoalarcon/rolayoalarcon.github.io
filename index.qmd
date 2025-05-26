@@ -1,5 +1,5 @@
 ---
-title: "Roberto Olayo Alarcon"
+title: "Roberto Olayo-Alarcon"
 comments: false
 image: imgs/portrait_whiteboard.jpeg
 toc: false
@@ -7,22 +7,22 @@ about:
   template: trestles
   links:
     - icon: github
-      text: GitHub
       href: https://github.com/rolayoalarcon
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/Scietwas
-    - icon: google
-      text: Google Scholar
+    - icon: bluesky
+      text: "bluesky"
+      href: https://bsky.app/profile/robolayo.bsky.social
+    - icon: linkedin
+      href: https://www.linkedin.com/in/roberto-olayo-alarcon-282892224/
+    - icon: mortarboard-fill
       href: https://scholar.google.com/citations?hl=en&user=ljY5uoMAAAAJ
 ---
 
 
 Hi there! My name is Roberto. I am a PhD student at **Ludwig-Maximilians-Universität München** and the **Helmholtz Munich** under the supervision of [Christian L. Müller](https://bio-datascience.github.io/).   
   
-Much of my research consists of using **statistics and machine learning** to gain new insights into **biological systems**. I particularly look into  subjects related to **antimicrobial resistance**, and **deep unsupervised learning**. 
+Much of my research consists of using **statistics and machine learning** to gain new insights into **biological phenomena**. I particularly look into  subjects related to **antimicrobial resistance**, **analysis of chemical perturbations**, **self-supervised deep learning**, etc. 
 
-Take a look at some of my [projects](projects.qmd) and [posters](publications.qmd#Posters)
+Take a look at some of my [projects](projects.qmd) and [publications](publications.qmd#Posters).
   
 
 

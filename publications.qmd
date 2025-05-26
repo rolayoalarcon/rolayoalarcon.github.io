@@ -9,15 +9,20 @@ toc: false
 See my [google scholar](https://scholar.google.com/citations?hl=en&user=ljY5uoMAAAAJ) for a full list of publications.
 :::
 
-1.  **Olayo-Alarcon, R.**, Amstalden, M. K., Zannoni, A., Bajramovic, M., Sharma, C. M., Brochado, A. R., ... & Müller, C. L. (2024). Pre-trained molecular representations enable antimicrobial discovery. bioRxiv, 2024-03. \[Preprint\] Available at: <https://www.biorxiv.org/content/10.1101/2024.03.11.584456v1.abstract>.
+1.  **Olayo-Alarcon, R.**, Amstalden, M. K., Zannoni, A., Bajramovic, M., Sharma, C. M., Brochado, A. R., ... & Müller, C. L. (2025). Pre-trained molecular representations enable antimicrobial discovery. Nature Communications, 16(1), 3420.
   
-![](imgs/pretrain_labelled.png){width="400"}
+2. Feldl, M.\*, **Olayo-Alarcon, R.**\*, Amstalden, M. K., Zannoni, A., Peschel, S., Sharma, C. M., ... & Müller, C. L. (2025). Statistical end-to-end analysis of large-scale microbial growth data with DGrowthR. bioRxiv, 2025-03.   
+    
+3. Binsfeld, C., **Olayo-Alarcon, R.**, Wartel, M., Stadler, M., Mueller, C., & Brochado, A. R. (2024). Systematic Characterization of Transport Regulation in Escherichia coli across defined environmental cues. bioRxiv, 2024-08.
+ 
+4. Ostner, J., Kirk, T., **Olayo-Alarcon, R.**, Thöming, J. G., Rosenthal, A. Z., Häussler, S., & Müller, C. L. (2024). BacSC: A general workflow for bacterial single-cell RNA sequencing data analysis. bioRxiv, 2024-06.
+  
+5. Stadler, M., **Olayo-Alarcon, R.**, Bien, J., & Müller, C. L. (2024). Predictive modeling of microbial data with interaction effects. bioRxiv, 2024-04.
 
-2.  Dietl, A., Ralser, A., Taxauer, K., Dregelies, T., Sterlacci, W., Stadler, M., **Olayo-Alarcon, R.**, ... & Mejias Luque, R. (2024). RNF43 is a gatekeeper for colitis-associated cancer. bioRxiv, 2024-01. \[Preprint\] Available at: <https://www.biorxiv.org/content/10.1101/2024.01.30.577936v1.abstract>.
+6.  Dietl, A., Ralser, A., Taxauer, K., Dregelies, T., Sterlacci, W., Stadler, M., **Olayo-Alarcon, R.**, ... & Mejias Luque, R. (2024). RNF43 is a gatekeeper for colitis-associated cancer. bioRxiv, 2024-01. \[Preprint\] Available at: <https://www.biorxiv.org/content/10.1101/2024.01.30.577936v1.abstract>.
 
-3.  Soto, L.M^\*^, **Olayo-Alarcon, R.**^\*^. et al. (2019) "GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning," bioRxiv \[Preprint\]. Available at: <https://doi.org/10.1101/839704>.
+7.  Soto, L.M^\*^, **Olayo-Alarcon, R.**^\*^. et al. (2019) "GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning," bioRxiv \[Preprint\]. Available at: <https://doi.org/10.1101/839704>.
 
-![](imgs/gedex_pipeline.png){width="400"}
 
 # Posters
 
