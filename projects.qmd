@@ -44,7 +44,7 @@ bacterial stress response. We developed a hierarchical interaction model that ca
 responsible for antibiotic antagonism mediated by Caffeine. This project was done in close collaboration with Christoph Binsfeld and Dr. Ana Rita Brochado.  
 
   
-Read the [pre-print](https://www.biorxiv.org/content/10.1101/2024.08.26.609649v1) now accepted in Plos Biology.
+Read the [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003260) now accepted in Plos Biology.
   
   
 ## Bacterial Single-Cell RNA-Seq analysis. 

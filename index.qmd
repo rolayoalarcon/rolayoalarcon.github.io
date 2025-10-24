@@ -18,9 +18,10 @@ about:
 ---
 
 
-Hi there! My name is Roberto. I am a PhD student at **Ludwig-Maximilians-Universität München** and the **Helmholtz Munich** under the supervision of [Christian L. Müller](https://bio-datascience.github.io/).   
-  
-Much of my research consists of using **statistics and machine learning** to gain new insights into **biological phenomena**. I particularly look into  subjects related to **antimicrobial resistance**, **analysis of chemical perturbations**, **self-supervised deep learning**, etc. 
+Hi there! My name is Roberto. I am a curiosity-driven scientist, broadly interested in how how data science, 
+statistics, and artificial intelligence can be used to better understand complex biological systems and gain novel insights.  
+
+My research has focused on the **_analysis_ and _prediction_ of the transcriptional response to chemical perturbations** in human pathogens. This has included the development of software packages such as [DGrowthR](https://github.com/bio-datascience/DGrowthR). I have also created novel molecular representation learning frameworks in [MolE](https://www.nature.com/articles/s41467-025-58804-4) which we successfully applied to the task of antmicrobial discovery. 
 
 Take a look at some of my [projects](projects.qmd) and [publications](publications.qmd#Posters).
   
@@ -29,6 +30,6 @@ Take a look at some of my [projects](projects.qmd) and [publications](publicatio
 
 ## Education
 
-**Ludwig-Maximilians-Universität München** \| PhD in Statistics \| Sep 2020 - Current
+**Ludwig-Maximilians-Universität München** \| PhD in Statistics \| Sep 2020 - Aug 2025
 
 **Universidad Nacional Autónoma de México** \| B.Sc. in Genomic Sciences \| Aug 2016 - Aug 2020

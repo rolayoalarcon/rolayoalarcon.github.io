@@ -18,14 +18,14 @@
     "href": "index.html",
     "title": "Roberto Olayo-Alarcon",
     "section": "",
-    "text": "Hi there! My name is Roberto. I am a PhD student at Ludwig-Maximilians-Universität München and the Helmholtz Munich under the supervision of Christian L. Müller.\nMuch of my research consists of using statistics and machine learning to gain new insights into biological phenomena. I particularly look into subjects related to antimicrobial resistance, analysis of chemical perturbations, self-supervised deep learning, etc.\nTake a look at some of my projects and publications."
+    "text": "Hi there! My name is Roberto. I am a curiosity-driven scientist, broadly interested in how how data science, statistics, and artificial intelligence can be used to better understand complex biological systems and gain novel insights.\nMy research has focused on the analysis and prediction of the transcriptional response to chemical perturbations in human pathogens. This has included the development of software packages such as DGrowthR. I have also created novel molecular representation learning frameworks in MolE which we successfully applied to the task of antmicrobial discovery.\nTake a look at some of my projects and publications."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Roberto Olayo-Alarcon",
     "section": "Education",
-    "text": "Education\nLudwig-Maximilians-Universität München | PhD in Statistics | Sep 2020 - Current\nUniversidad Nacional Autónoma de México | B.Sc. in Genomic Sciences | Aug 2016 - Aug 2020"
+    "text": "Education\nLudwig-Maximilians-Universität München | PhD in Statistics | Sep 2020 - Aug 2025\nUniversidad Nacional Autónoma de México | B.Sc. in Genomic Sciences | Aug 2016 - Aug 2020"
   },
   {
     "objectID": "publications.html",
@@ -67,7 +67,7 @@
     "href": "projects.html#comparing-musical-taste-with-spotify.",
     "title": "Projects",
     "section": "Comparing Musical taste with Spotify.",
-    "text": "Comparing Musical taste with Spotify.\n\nHave you ever wondered what makes your taste in music unique to that of all your friends? You can check out some exploratory analysis I made comparing my music taste to that of some of my friends! Music taste analysis"
+    "text": "Comparing Musical taste with Spotify."
   },
   {
     "objectID": "contact.html",
@@ -172,7 +172,7 @@
     "href": "projects.html#statistical-modeling-of-bacterial-stress-response.",
     "title": "Projects",
     "section": "Statistical modeling of bacterial stress response.",
-    "text": "Statistical modeling of bacterial stress response.\n\nHere, we created a statistical model that analyzes data from chemical-genetic screens to identify the regulatory relationships that control bacterial stress response. We developed a hierarchical interaction model that captures regulator contributions to the observed changes in gene expression in Escherichia coli in response to chemical perturbations. Using this model, we identified the regulatory networks responsible for antibiotic antagonism mediated by Caffeine. This project was done in close collaboration with Christoph Binsfeld and Dr. Ana Rita Brochado.\nRead the pre-print now accepted in Plos Biology."
+    "text": "Statistical modeling of bacterial stress response.\n\nHere, we created a statistical model that analyzes data from chemical-genetic screens to identify the regulatory relationships that control bacterial stress response. We developed a hierarchical interaction model that captures regulator contributions to the observed changes in gene expression in Escherichia coli in response to chemical perturbations. Using this model, we identified the regulatory networks responsible for antibiotic antagonism mediated by Caffeine. This project was done in close collaboration with Christoph Binsfeld and Dr. Ana Rita Brochado.\nRead the paper now accepted in Plos Biology."
   },
   {
     "objectID": "projects.html#bacterial-single-cell-rna-seq-analysis.",
@@ -180,5 +180,12 @@
     "title": "Projects",
     "section": "Bacterial Single-Cell RNA-Seq analysis.",
     "text": "Bacterial Single-Cell RNA-Seq analysis.\n\nIn this project, led by Johannes Ostner, we developed a general workflow for the analysis of bacterial single-cell RNA sequencing data. We created a set of tools that allow for quality control, normalization, clustering, and differential expression analysis. We applied this workflow to analyze single-cell RNA-seq data from Bacillus subtilis, Pseudomonas aeruginosa, and Klebsiella pneumoniae.\nRead the pre-print."
+  },
+  {
+    "objectID": "projects.html#have-you-ever-wondered-what-makes-your-taste-in-music-unique-to-that-of-all-your-friends-you-can-check-out-some-exploratory-analysis-i-made-comparing-my-music-taste-to-that-of-some-of-my-friends-music-taste-analysis",
+    "href": "projects.html#have-you-ever-wondered-what-makes-your-taste-in-music-unique-to-that-of-all-your-friends-you-can-check-out-some-exploratory-analysis-i-made-comparing-my-music-taste-to-that-of-some-of-my-friends-music-taste-analysis",
+    "title": "Projects",
+    "section": "Have you ever wondered what makes your taste in music unique to that of all your friends? You can check out some exploratory analysis I made comparing my music taste to that of some of my friends! Music taste analysis",
+    "text": "Have you ever wondered what makes your taste in music unique to that of all your friends? You can check out some exploratory analysis I made comparing my music taste to that of some of my friends! Music taste analysis"
   }
 ]
