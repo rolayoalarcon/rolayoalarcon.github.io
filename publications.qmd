@@ -9,19 +9,24 @@ toc: false
 See my [google scholar](https://scholar.google.com/citations?hl=en&user=ljY5uoMAAAAJ) for a full list of publications.
 :::
 
-1.  **Olayo-Alarcon, R.**, Amstalden, M. K., Zannoni, A., Bajramovic, M., Sharma, C. M., Brochado, A. R., ... & Müller, C. L. (2025). Pre-trained molecular representations enable antimicrobial discovery. Nature Communications, 16(1), 3420.
+1. Amstalden, M. K., **Olayo-Alarcon, R.**, ... & Brochado A. R. (2026). Large-scale screen reveals extensive regulation of intrinsic
+antibiotic resistance and virulence by human-targeted drugs in Salmonella Typhimurium. [biorxiv](https://www.biorxiv.org/content/10.64898/2026.09.30.755304v1).
+
+2. **Olayo-Alarcon, R.**, Pugno, D., Müller, C.L. (2025) Protein Content-Based Microbial Representations Improve Predictions of Antimicrobial Activity. Proceedings of the 34th International Conference on Artificial Neural Networks (ICANN 2025). Workshop on AI in Drug Discovery. <https://doi.org/10.1007/978-3-032-04552-2>.
+
+3.  **Olayo-Alarcon, R.**, Amstalden, M. K., Zannoni, A., Bajramovic, M., Sharma, C. M., Brochado, A. R., ... & Müller, C. L. (2025). Pre-trained molecular representations enable antimicrobial discovery. [Nature Communications, 16(1), 3420](https://www.nature.com/articles/s41467-025-58804-4).
   
-2. Feldl, M.\*, **Olayo-Alarcon, R.**\*, Amstalden, M. K., Zannoni, A., Peschel, S., Sharma, C. M., ... & Müller, C. L. (2025). Statistical end-to-end analysis of large-scale microbial growth data with DGrowthR. bioRxiv, 2025-03.   
+4. Feldl, M.\*, **Olayo-Alarcon, R.**\*, Amstalden, M. K., Zannoni, A., Peschel, S., Sharma, C. M., ... & Müller, C. L. (2025). Statistical end-to-end analysis of large-scale microbial growth data with DGrowthR. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.25.645164v3), 2025-03. \*co-first authors.
     
-3. Binsfeld, C., **Olayo-Alarcon, R.**, Wartel, M., Stadler, M., Mueller, C., & Brochado, A. R. (2024). Systematic Characterization of Transport Regulation in Escherichia coli across defined environmental cues. bioRxiv, 2024-08.
+5. Binsfeld, C., **Olayo-Alarcon, R.**, Wartel, M., Stadler, M., Mueller, C., & Brochado, A. R. (2024). Systematic screen uncovers regulator contributions to chemical cues in Escherichia coli. [PLoS biology, 23(7), e3003260](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003260).
  
-4. Ostner, J., Kirk, T., **Olayo-Alarcon, R.**, Thöming, J. G., Rosenthal, A. Z., Häussler, S., & Müller, C. L. (2024). BacSC: A general workflow for bacterial single-cell RNA sequencing data analysis. bioRxiv, 2024-06.
+6. Ostner, J., Kirk, T., **Olayo-Alarcon, R.**, Thöming, J. G., Rosenthal, A. Z., Häussler, S., & Müller, C. L. (2024). BacSC: A general workflow for bacterial single-cell RNA sequencing data analysis. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.22.600071v1).
   
-5. Stadler, M., **Olayo-Alarcon, R.**, Bien, J., & Müller, C. L. (2024). Predictive modeling of microbial data with interaction effects. bioRxiv, 2024-04.
+7. Stadler, M., **Olayo-Alarcon, R.**, Bien, J., & Müller, C. L. (2024). Predictive modeling of microbial data with interaction effects. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.04.29.591596v2).
 
-6.  Dietl, A., Ralser, A., Taxauer, K., Dregelies, T., Sterlacci, W., Stadler, M., **Olayo-Alarcon, R.**, ... & Mejias Luque, R. (2024). RNF43 is a gatekeeper for colitis-associated cancer. bioRxiv, 2024-01. \[Preprint\] Available at: <https://www.biorxiv.org/content/10.1101/2024.01.30.577936v1.abstract>.
+8.  Dietl, A., Ralser, A., Taxauer, K., Dregelies, T., Sterlacci, W., Stadler, M., **Olayo-Alarcon, R.**, ... & Mejias Luque, R. (2024). RNF43 is a gatekeeper for colitis-associated cancer. bioRxiv, 2024-01. \[Preprint\] Available at: <https://www.biorxiv.org/content/10.1101/2024.01.30.577936v1.abstract>.
 
-7.  Soto, L.M^\*^, **Olayo-Alarcon, R.**^\*^. et al. (2019) "GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning," bioRxiv \[Preprint\]. Available at: <https://doi.org/10.1101/839704>.
+9.  Soto, L.M^\*^, **Olayo-Alarcon, R.**^\*^. et al. (2019) "GeDex: A consensus gene-disease event extraction system based on frequency patterns and supervised learning," bioRxiv \[Preprint\]. Available at: <https://doi.org/10.1101/839704>.
 
 
 # Posters

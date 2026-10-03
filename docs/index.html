@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Roberto Olayo-Alarcon – Roberto Olayo</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -35,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2bee134265957d622d2334f1723e23a2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-52eac0b935b4de6171828ff6557cd2c3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -143,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Hi there! My name is Roberto. I am a curiosity-driven scientist, broadly interested in how how data science, statistics, and artificial intelligence can be used to better understand complex biological systems and gain novel insights.</p>
+<p>Hi there! My name is Roberto. I’m based in Heildelberg, working as a computational scientist at the <a href="https://www.embl.org/groups/microbial-automation-culturomics/">Microbial Automation and Culturomics Core Facility</a> at EMBL Heidelberg. I am a curiosity-driven scientist, broadly interested in how how data science and artificial intelligence can be used to better understand complex biological systems and gain novel insights.</p>
 <p>My research has focused on the <strong><em>analysis</em> and <em>prediction</em> of the transcriptional response to chemical perturbations</strong> in human pathogens. This has included the development of software packages such as <a href="https://github.com/bio-datascience/DGrowthR">DGrowthR</a>. I have also created novel molecular representation learning frameworks in <a href="https://www.nature.com/articles/s41467-025-58804-4">MolE</a> which we successfully applied to the task of antmicrobial discovery.</p>
 <p>Take a look at some of my <a href="./projects.html">projects</a> and <a href="./publications.html#Posters">publications</a>.</p>
 <section id="education" class="level2">
@@ -200,13 +203,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

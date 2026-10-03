@@ -18,8 +18,7 @@ about:
 ---
 
 
-Hi there! My name is Roberto. I am a curiosity-driven scientist, broadly interested in how how data science, 
-statistics, and artificial intelligence can be used to better understand complex biological systems and gain novel insights.  
+Hi there! My name is Roberto. I'm based in Heildelberg, working as a computational scientist at the [Microbial Automation and Culturomics Core Facility](https://www.embl.org/groups/microbial-automation-culturomics/) at EMBL Heidelberg. I am a curiosity-driven scientist, broadly interested in how how data science and artificial intelligence can be used to better understand complex biological systems and gain novel insights.
 
 My research has focused on the **_analysis_ and _prediction_ of the transcriptional response to chemical perturbations** in human pathogens. This has included the development of software packages such as [DGrowthR](https://github.com/bio-datascience/DGrowthR). I have also created novel molecular representation learning frameworks in [MolE](https://www.nature.com/articles/s41467-025-58804-4) which we successfully applied to the task of antmicrobial discovery. 
 
